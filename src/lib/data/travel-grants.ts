@@ -1,0 +1,7 @@
+import type { TravelGrantsData } from './types';
+
+export const travelGrants: TravelGrantsData = {
+	application_deadline: 'March 2, 2026',
+	grant_notification: 'May 1, 2026',
+	application_form: 'https://forms.gle/LtNwL18kRbVv3bjE8'
+};

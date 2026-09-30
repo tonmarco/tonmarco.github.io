@@ -1,0 +1,602 @@
+[
+  {
+    "time": "9:00 AM",
+    "sessions": [
+      {
+        "track": 1,
+        "session": 1,
+        "theme": "Culture, Discourse, and Beliefs (1)",
+        "presentations": [
+          {
+            "submission": 166,
+            "title": "Shifting Media Representations of Schizophrenia in the U.S. News (1985-2025): A Multidimensional Analysis of Semantic Change",
+            "authors": "Naomi Baes, Ekaterina Vylomova and Nick Haslam",
+            "format": "Parallel",
+            "timeET": "9:00 AM",
+            "timeLocal": "11:00 PM",
+            "speakingFrom": "Australia"
+          },
+          {
+            "submission": 31,
+            "title": "Cultural Schemas Moderate AI Bias in Creativity Evaluation: Evidence from a Factorial Survey with Correlational Class Analysis",
+            "authors": "Shimmei Yamauchi",
+            "format": "Parallel",
+            "timeET": "9:15 AM",
+            "timeLocal": "10:15 PM",
+            "speakingFrom": "Japan"
+          },
+          {
+            "submission": 93,
+            "title": "Flattening Sociological Reasoning of LLMs in Life Outcome Inference",
+            "authors": "Ying Chu and Chen-Shuo Hong",
+            "format": "Parallel",
+            "timeET": "9:30 AM",
+            "timeLocal": "9:30 PM",
+            "speakingFrom": "Taiwan"
+          },
+          {
+            "submission": 724,
+            "title": "“Poor Sons, Rich Daughters”: Chinese Parenting Discourse on Social Media (2010–2025)",
+            "authors": "Yanru Long and Jiaxu Chen",
+            "format": "Parallel",
+            "timeET": "9:45 AM",
+            "timeLocal": "9:45 PM",
+            "speakingFrom": "China"
+          }
+        ]
+      },
+      {
+        "track": 2,
+        "session": 1,
+        "theme": "Work, Collaboration, and Technology (1)",
+        "presentations": [
+          {
+            "submission": 77,
+            "title": "Can Nudge-and-Boost Resolve the Productivity–Diversity Trade-Off in AI-Assisted Learning? Evidence from a Reading Experiment",
+            "authors": "Susumu Nagayama, Mariko Watanabe and Masahiro Kazama",
+            "format": "Poster",
+            "timeET": "9:00 AM",
+            "timeLocal": "10:00 PM",
+            "speakingFrom": "Japan"
+          },
+          {
+            "submission": 655,
+            "title": "Same People, Different Divides: A Parallel Comparison of Digital and AI Inequality",
+            "authors": "Eunsaem Cho, Jaehyuk Park and Byungkoo Kim",
+            "format": "Poster",
+            "timeET": "9:10 AM",
+            "timeLocal": "10:10 PM",
+            "speakingFrom": "South Korea"
+          },
+          {
+            "submission": 725,
+            "title": "Extracting Contextual Substitutes for Workplace Skills using Masked Language Models",
+            "authors": "Hyunjin Cho, Woo-Sung Jung, Jaehyuk Park and Jisung Yoon",
+            "format": "Poster",
+            "timeET": "9:20 AM",
+            "timeLocal": "10:20 PM",
+            "speakingFrom": "South Korea"
+          },
+          {
+            "submission": 765,
+            "title": "Semantic Drift and Research Adoption in Computer Science: Evidence from Diachronic Word Embeddings (2000–2023)",
+            "authors": "Hyewon Kim and Sungwha Hong",
+            "format": "Poster",
+            "timeET": "9:30 AM",
+            "timeLocal": "10:30 PM",
+            "speakingFrom": "South Korea"
+          },
+          {
+            "submission": 99,
+            "title": "Robust Spillover Inference under Network Uncertainty",
+            "authors": "Ruiliang Li",
+            "format": "Poster",
+            "timeET": "9:40 AM",
+            "timeLocal": "9:40 PM",
+            "speakingFrom": "China"
+          },
+          {
+            "submission": 777,
+            "title": "Verify the Unverifiable: A Platform for AI in Unverifiable Decision Scenarios",
+            "authors": "Zheng Jiang, Wei Wang, Gaowei Zhang and Yi Wang",
+            "format": "Poster",
+            "timeET": "9:50 AM",
+            "timeLocal": "9:50 PM",
+            "speakingFrom": "China"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "10:00 AM",
+    "sessions": [
+      {
+        "track": 1,
+        "session": 2,
+        "theme": "Political Discourse and Social Movements (1)",
+        "presentations": [
+          {
+            "submission": 36,
+            "title": "How Washington Frames China: A Bipartisan NLP Analysis of Congressional Discourse and Strategic Signaling",
+            "authors": "Enyu Li",
+            "format": "Poster",
+            "timeET": "10:00 AM",
+            "timeLocal": "10:00 PM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 51,
+            "title": "Resilience to Repression from Authorities and Burnout in Social Movements - Insights from Fieldwork and Agent-Based Modelling",
+            "authors": "Timo Damm, Mirta Galesic, Henrik Olsson and Veronika Gaube",
+            "format": "Poster",
+            "timeET": "10:10 AM",
+            "timeLocal": "4:10 PM",
+            "speakingFrom": "Austria"
+          },
+          {
+            "submission": 307,
+            "title": "Constructing Power in Transition: A Constructivist Computational Analysis of Russia’s Identity, Status, and Role in Central Asia vis-à-vis China",
+            "authors": "Miras Tolepbergen",
+            "format": "Poster",
+            "timeET": "10:20 AM",
+            "timeLocal": "4:20 PM",
+            "speakingFrom": "Norway"
+          },
+          {
+            "submission": 721,
+            "title": "Why Educational Predictive Models Fail to Transfer: A Distribution Shift Decomposition",
+            "authors": "Chengyuan Yao, Rebecca Su, Rene Kizilcec, Christopher Brooks and Renzhe Yu",
+            "format": "Parallel",
+            "timeET": "10:30 AM",
+            "timeLocal": "10:30 PM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 234,
+            "title": "From Partisanship to Toxicity: What Drives Political Engagement on TikTok?",
+            "authors": "Ahana Biswas, Alireza Javadian Sabet and Yu-Ru Lin",
+            "format": "Poster",
+            "timeET": "10:40 AM",
+            "timeLocal": "10:40 AM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 781,
+            "title": "Discrepancies in the Geotargeting of Spanish vs English Google Search Results During the 2024 US Elections",
+            "authors": "Nina Howley, Dianna Gonzalez and Eni Mustafaraj",
+            "format": "Poster",
+            "timeET": "10:50 AM",
+            "timeLocal": "10:50 AM",
+            "speakingFrom": "United States"
+          }
+        ]
+      },
+      {
+        "track": 2,
+        "session": 2,
+        "theme": "New Methodologies to Uncover Social Outcomes (1)",
+        "presentations": [
+          {
+            "submission": 749,
+            "title": "Internalization vs. Externalization of Government AI Innovation: A Patent Landscape Analysis",
+            "authors": "Doeun Kim and Jaehyuk Park",
+            "format": "Parallel",
+            "timeET": "10:00 AM",
+            "timeLocal": "11:00 PM",
+            "speakingFrom": "South Korea"
+          },
+          {
+            "submission": 47,
+            "title": "A causal forest approach to predicting gestational age effect on academic performance",
+            "authors": "Chiung-Ying Kuan",
+            "format": "Parallel",
+            "timeET": "10:15 AM",
+            "timeLocal": "10:15 PM",
+            "speakingFrom": "Taiwan"
+          },
+          {
+            "submission": 654,
+            "title": "AI Transparency, User Attention, and Cognitive Processing on Social Media: An Eye-Tracking Study of Disclosure Design",
+            "authors": "Yunci Tian, Jie Wang and Pu Yan",
+            "format": "Parallel",
+            "timeET": "10:30 AM",
+            "timeLocal": "10:30 PM",
+            "speakingFrom": "China"
+          },
+          {
+            "submission": 173,
+            "title": "Who Gets Funded and Who Succeeds? Novelty and Homophily in Venture Capital",
+            "authors": "Fengyuan Liu, Diana Tran Nhat, Bedoor Alshebli, Fabian Braesemann and Talal Rahwan.",
+            "format": "Parallel",
+            "timeET": "10:45 AM",
+            "timeLocal": "10:45 PM",
+            "speakingFrom": "China"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "11:00 AM",
+    "sessions": [
+      {
+        "track": 1,
+        "session": 3,
+        "theme": "Culture, Discourse, and Beliefs (2)",
+        "presentations": [
+          {
+            "submission": 49,
+            "title": "Alone in the Crowd? Urban Population Density and Loneliness Expression on Chinese Social Media",
+            "authors": "Shuo Wang",
+            "format": "Parallel",
+            "timeET": "11:00 AM",
+            "timeLocal": "11:00 PM",
+            "speakingFrom": "Singapore"
+          },
+          {
+            "submission": 148,
+            "title": "Network Structure, Retweet Diffusion, and Ideological Extremity in Chinese-Speaking Trump Supporter Networks on X",
+            "authors": "Wenjing Huang and Yuting He",
+            "format": "Parallel",
+            "timeET": "11:15 AM",
+            "timeLocal": "11:15 PM",
+            "speakingFrom": "China"
+          },
+          {
+            "submission": 115,
+            "title": "TenSnap: Bridging the Performance-Usability Gap in Computational Social Science Modeling via a Decoupled Interactive Protocol",
+            "authors": "Junning Zhao and Yu Chen",
+            "format": "Parallel",
+            "timeET": "11:30 AM",
+            "timeLocal": "12.30 AM (July 22)",
+            "speakingFrom": "Japan"
+          },
+          {
+            "submission": 676,
+            "title": "Climate Stories Gone Viral: Multi-Model Analysis of Cross-Platform Climate Communication",
+            "authors": "Hengyi Li, Lingyun Li and Pu Yan",
+            "format": "Parallel",
+            "timeET": "11:45 AM",
+            "timeLocal": "11:45 PM",
+            "speakingFrom": "China"
+          }
+        ]
+      },
+      {
+        "track": 2,
+        "session": 3,
+        "theme": "New Methodologies to Uncover Social Outcomes (2)",
+        "presentations": [
+          {
+            "submission": 385,
+            "title": "Detecting Digital Dependence: Inferring Government Use of Hyperscaler Cloud from Internet Infrastructure Data",
+            "authors": "Jaakko Kilpi, Otto Kässi, Godofredo Ramizo Jr. and Vili Lehdonvirta",
+            "format": "Poster",
+            "timeET": "11:00 AM",
+            "timeLocal": "5:00 PM",
+            "speakingFrom": "Finland"
+          },
+          {
+            "submission": 44,
+            "title": "Global Bias in Question Answering for Large Language Models",
+            "authors": "Elise Scott and Laura Biester",
+            "format": "Poster",
+            "timeET": "11:10 AM",
+            "timeLocal": "11:10 AM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 550,
+            "title": "Survey as Life-course Annotation: Extracting Life Histories from Survey Data Using Large Language Models",
+            "authors": "Youngjin Chae",
+            "format": "Poster",
+            "timeET": "11:20 AM",
+            "timeLocal": "11:20 AM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 748,
+            "title": "Improving LLM-based Annotation Quality through Multi-Agent Orchestration",
+            "authors": "Bakhtawar Ahtisham, Kirk Vanacore and Rene F. Kizilcec",
+            "format": "Poster",
+            "timeET": "11:30 AM",
+            "timeLocal": "11:30 AM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 522,
+            "title": "Cross-Cultural Evaluation of LLMs: A Mixed-Method Study of Chinese-to-English Movie Title Translation",
+            "authors": "Xiaoxuan Jacqui Wang, Jialing Wu and Yingyu Cheng",
+            "format": "Poster",
+            "timeET": "11:40 AM",
+            "timeLocal": "11:40 AM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 168,
+            "title": "LLM-assistance is associated with faster, but not better, academic writing",
+            "authors": "Fengyuan Liu, Molly Crockett and Talal Rahwan",
+            "format": "Poster",
+            "timeET": "11:50 AM",
+            "timeLocal": "11:50 PM",
+            "speakingFrom": "China"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "12:00 PM",
+    "sessions": [
+      {
+        "track": 1,
+        "session": 4,
+        "theme": "Work, Collaboration, and Technology (2)",
+        "presentations": [
+          {
+            "submission": 371,
+            "title": "Modelling Informal Reporting Behaviour in Competitive Social Environments: A Dark Tetrad Perspective",
+            "authors": "Karina Galimnurova and Polina Sazhina",
+            "format": "Poster",
+            "timeET": "12:00 PM",
+            "timeLocal": "7:00 PM",
+            "speakingFrom": "Russia"
+          },
+          {
+            "submission": 412,
+            "title": "Regional Discourse on Labor Migrants in Russian Telegram: A Computational Approach to Sentiment Polarization and Spatial Dynamics",
+            "authors": "Sofiia Buianova and Anastasiia Marchenkova",
+            "format": "Poster",
+            "timeET": "12:10 PM",
+            "timeLocal": "7:10 PM",
+            "speakingFrom": "Russia"
+          },
+          {
+            "submission": 206,
+            "title": "TWIN Transitions from the Perspective of Technological Trajectories",
+            "authors": "Tommaso Ciarli, Onder Nomaler and Bart Verspagen",
+            "format": "Poster",
+            "timeET": "12:20 PM",
+            "timeLocal": "6:20 PM",
+            "speakingFrom": "Netherlands"
+          },
+          {
+            "submission": 429,
+            "title": "Structural Influence Detection in U.S. Federal Politics: A Multi-Source Knowledge Graph Approach",
+            "authors": "Brian Brown and Richard Ellefritz",
+            "format": "Poster",
+            "timeET": "12:30 PM",
+            "timeLocal": "12:30 PM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 213,
+            "title": "Enabling Workforce Intelligence through Occupational Taxonomy Alignment",
+            "authors": "Yifan Xu, Isabella Loaiza and César Uribe",
+            "format": "Poster",
+            "timeET": "12:40 PM",
+            "timeLocal": "11:40 AM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 752,
+            "title": "Time-Locked Large Language Models for Counterfactual Historical Reasoning",
+            "authors": "Daniel Göttlich, Hans-Joachim Voth, Guohui Jiang and Dominik Loibner",
+            "format": "Poster",
+            "timeET": "12:50 PM",
+            "timeLocal": "6:50 PM",
+            "speakingFrom": "Switzerland"
+          }
+        ]
+      },
+      {
+        "track": 2,
+        "session": 4,
+        "theme": "New Methodologies to Uncover Social Outcomes (3)",
+        "presentations": [
+          {
+            "submission": 305,
+            "title": "From Events to Organizers: Detecting Social Movement Organizations through Population-First, Human-in-the-Loop LLM Inference",
+            "authors": "Helin Yaren Ekmen",
+            "format": "Parallel",
+            "timeET": "12:00 PM",
+            "timeLocal": "7:00 PM",
+            "speakingFrom": "Turkey"
+          },
+          {
+            "submission": 294,
+            "title": "The Influence of Generative AI on Student Academic Writing",
+            "authors": "August Lohse, Snorre Raalund and Felix Weiss",
+            "format": "Parallel",
+            "timeET": "12:15 PM",
+            "timeLocal": "6:15 PM",
+            "speakingFrom": "Denmark"
+          },
+          {
+            "submission": 413,
+            "title": "Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals",
+            "authors": "Tamás Kriváchy",
+            "format": "Parallel",
+            "timeET": "12:30 PM",
+            "timeLocal": "6:30 PM",
+            "speakingFrom": "Switzerland"
+          },
+          {
+            "submission": 357,
+            "title": "Beyond Multi-modality: Evaluating AI’s Meme Literacy in Conversational Contexts on Bluesky",
+            "authors": "Juyoung An, Haewoon Kwak and Jisun An",
+            "format": "Parallel",
+            "timeET": "12:45 PM",
+            "timeLocal": "12:45 PM",
+            "speakingFrom": "United States"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "1:00 PM",
+    "sessions": [
+      {
+        "track": 1,
+        "session": 5,
+        "theme": "Work, Collaboration, and Technology (3)",
+        "presentations": [
+          {
+            "submission": 10,
+            "title": "Reconstructing and Modelling Cocaine Trafficking Dynamics in Rotterdam and Antwerp Using MNAR Bayesian Multiple Imputation",
+            "authors": "Frederike Oetker",
+            "format": "Parallel",
+            "timeET": "1:00 PM",
+            "timeLocal": "7:00 PM",
+            "speakingFrom": "Netherlands"
+          },
+          {
+            "submission": 186,
+            "title": "Green and Digital Technology: Occupational Exposure, Substitutability, and Labour Market Effects",
+            "authors": "Sidharth Rony, Tommaso Ciarli and Onder Nomaler",
+            "format": "Parallel",
+            "timeET": "1:15 PM",
+            "timeLocal": "7:15 PM",
+            "speakingFrom": "Netherlands"
+          },
+          {
+            "submission": 202,
+            "title": "Advertised Technologies: Identifying Adoption of Emerging Technologies in Online Job Postings",
+            "authors": "Anna Giabelli, Ekaterina Prytkova, Fabien Petit and Tommaso Ciarli",
+            "format": "Parallel",
+            "timeET": "1:30 PM",
+            "timeLocal": "7:30 PM",
+            "speakingFrom": "Netherlands"
+          },
+          {
+            "submission": 197,
+            "title": "Sleeping Beauties in an Online Health Community:Late-Stage Attention Resurgence and the Role of Informational Support",
+            "authors": "Xiancheng Li",
+            "format": "Parallel",
+            "timeET": "1:45 PM",
+            "timeLocal": "1:45 PM",
+            "speakingFrom": "United Kingdom"
+          }
+        ]
+      },
+      {
+        "track": 2,
+        "session": 5,
+        "theme": "Political Discourse and Social Movements (2)",
+        "presentations": [
+          {
+            "submission": 233,
+            "title": "Engagement as Feedback: Do Audiences Shape Cross-Party Interaction Among Political Elites?",
+            "authors": "Ahana Biswas and Yu-Ru Lin",
+            "format": "Parallel",
+            "timeET": "1:00 PM",
+            "timeLocal": "1:00 PM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 232,
+            "title": "What Gets Seen? Misinformation, Incivility, and Elite Discourse in the Political Attention Economy",
+            "authors": "Ahana Biswas, Yu-Ru Lin, Yuehong Cassandra Tai and Bruce A. Desmarais",
+            "format": "Parallel",
+            "timeET": "1:15 PM",
+            "timeLocal": "1:15 PM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 483,
+            "title": "AI Governance as Geopolitical Competition: Tracing Audience-Calibrated Chinese AI Policy Frame Transmission On Social Media Using an LLM-Assisted Pipeline",
+            "authors": "Julian Theseira",
+            "format": "Parallel",
+            "timeET": "1:30 PM",
+            "timeLocal": "7:30 PM",
+            "speakingFrom": "Czech Republic/Poland"
+          },
+          {
+            "submission": 324,
+            "title": "LLM Annotation Regimes as Measurement Instruments: Implications for Large-Scale Analysis of Human Values in Social Media",
+            "authors": "Maria Milkova and Maksim Rudnev",
+            "format": "Parallel",
+            "timeET": "1:45 PM",
+            "timeLocal": "6:45 PM",
+            "speakingFrom": "Portugal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "2:00 PM",
+    "sessions": [
+      {
+        "track": 1,
+        "session": 6,
+        "theme": "New Methodologies to Uncover Social Outcomes (4)",
+        "presentations": [
+          {
+            "submission": 735,
+            "title": "Estimating the Reliability of Smartphone Use Using Dynamic Structural Equation Modelling",
+            "authors": "Alexandru Cernat and Florian Keusch",
+            "format": "Parallel",
+            "timeET": "2:00 PM",
+            "timeLocal": "8:00 PM",
+            "speakingFrom": "Germany"
+          },
+          {
+            "submission": 538,
+            "title": "Prediction to Explanatory Device: LLM Reasoning as Data for Social Science Inquiry",
+            "authors": "Yitong Liu and Han Zhang",
+            "format": "Parallel",
+            "timeET": "2:15 PM",
+            "timeLocal": "2:15 PM",
+            "speakingFrom": "United States"
+          },
+          {
+            "submission": 540,
+            "title": "God Save the Children: Examining Religious Identities and Polarization in Predator Vigilantism Discourse",
+            "authors": "Maylee Sexton, Kimberly Ingold, Pekka Santtila and Brian Hall",
+            "format": "Poster",
+            "timeET": "2:30 PM",
+            "timeLocal": "2:30 PM",
+            "speakingFrom": "United States"
+          }
+        ]
+      },
+      {
+        "track": 2,
+        "session": 6,
+        "theme": "Culture, Discourse, and Beliefs (3)",
+        "presentations": [
+          {
+            "submission": 340,
+            "title": "How external pressure affects adaptive belief networks",
+            "authors": "Peter Steiglechner",
+            "format": "Parallel",
+            "timeET": "2:00 PM",
+            "timeLocal": "7:00 PM",
+            "speakingFrom": "United Kingdom"
+          },
+          {
+            "submission": 113,
+            "title": "From Ledger to Faculty: Quantifying the Secularization of Moral Agency (350 BCE -- 1900)",
+            "authors": "Claudiu Creanga and LIviu P. Dinu",
+            "format": "Parallel",
+            "timeET": "2:15 PM",
+            "timeLocal": "9:15 PM",
+            "speakingFrom": "Romania"
+          },
+          {
+            "submission": 36,
+            "title": "How Washington Frames China: A Bipartisan NLP Analysis of Congressional Discourse and Strategic Signaling",
+            "authors": "Enyu Li",
+            "format": "Poster",
+            "timeET": "2:30 PM",
+            "timeLocal": "",
+            "speakingFrom": ""
+          }
+        ]
+      }
+    ]
+  }
+]

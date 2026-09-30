@@ -1,0 +1,44 @@
+{
+  "_note": "Values supplied where this year's program workbook is broken or incomplete (Day 1 rows are unparseable; plenary-keynote chairs are absent; a few speaker spellings are off). These should be fixed at the source — a structured template next year should retire this file. Applied by build_data.py.",
+  "day1": [
+    { "time": "7:30–9:00", "title": "Registration and Coffee", "type": "registration", "location": "Davis Center, 4th floor" },
+    { "time": "8:45–9:00", "title": "Opening Remarks", "type": "remarks", "location": "Silver Maple Ballroom" },
+    { "time": "9:00–10:30", "title": "Morning Tutorials", "type": "tutorial", "tutorials": [1, 2, 3, 4, 5] },
+    { "time": "10:30–10:45", "title": "Break / Coffee", "type": "break" },
+    { "time": "10:45–12:15", "title": "Tutorials continue", "type": "tutorial" },
+    { "time": "12:15–13:15", "title": "Lunch", "type": "lunch" },
+    { "time": "13:15–14:45", "title": "Afternoon Tutorials", "type": "tutorial", "tutorials": [6, 7, 8, 9, 10] },
+    { "time": "14:45–15:00", "title": "Break / Coffee", "type": "break" },
+    { "time": "15:00–16:30", "title": "Tutorials continue", "type": "tutorial" },
+    { "time": "16:30–17:30", "title": "Welcome Reception", "type": "social", "location": "Davis Center, Grand Maple ballroom" }
+  ],
+
+  "keynotes": {
+    "Day 2|9:45–10:30":  { "speakers": ["Derek Curry", "Jennifer Gradecki"] },
+    "Day 2|16:00–16:45": { "speakers": ["Gašper Beguš"], "chairs": "Alexa Woodward" },
+    "Day 2|16:45–17:30": { "speakers": ["Jan Eisfeldt"], "chairs": "Juniper Lovato" },
+    "Day 3|9:45–10:30":  { "speakers": ["Rafael Prieto-Curiel"] },
+    "Day 3|16:00–16:45": { "speakers": ["Katy Milkman"], "chairs": "Chris Danforth" },
+    "Day 3|16:45–17:30": { "speakers": ["Kate Starbird"], "chairs": "Tim Tangherlini" },
+    "Day 4|9:45–10:30":  { "speakers": ["Kyle Mahowald"] },
+    "Day 4|16:00–16:45": { "speakers": ["Jonathan Gilmour"], "chairs": "Alexa Woodward" }
+  },
+
+  "poster_days": {
+    "_note": "Override POSTERS (Assigned Days)'s 'Day assigned' (day == session; 1=Wed, 2=Thu, 3=Fri).",
+    "264": 2
+  },
+
+  "poster_authors": {
+    "_note": "Override the EasyChair author list (poster id → full author string), e.g. to credit a presenter not on the submission. Add one line per poster.",
+    "165": "Hazem Ibrahim (presenter), Fengyuan Liu, Bedoor Alshebli and Talal Rahwan",
+    "86": "Brent Hoagland and Hana Shepherd"
+  },
+
+  "locations": {
+    "_note": "lunch: the Wednesday sheet still says 4th Floor; catering is in the 1st Floor Lounge all three days.",
+    "poster": "Davis Center, 1st Floor",
+    "keynote": "Grand Maple Ballroom",
+    "lunch": "Davis Center, 1st Floor Lounge"
+  }
+}

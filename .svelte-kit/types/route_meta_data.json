@@ -1,0 +1,85 @@
+{
+	"/": [
+		"src/routes/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/about": [
+		"src/routes/about/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/accommodation": [
+		"src/routes/accommodation/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/conduct": [
+		"src/routes/conduct/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/getting-there": [
+		"src/routes/getting-there/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/keynotes": [
+		"src/routes/keynotes/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/organization": [
+		"src/routes/organization/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/posters": [
+		"src/routes/+layout.ts"
+	],
+	"/program": [
+		"src/routes/program/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/program/print": [
+		"src/routes/program/print/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/register": [
+		"src/routes/register/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/scavenger-hunt": [
+		"src/routes/scavenger-hunt/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/sitemap.xml": [
+		"src/routes/sitemap.xml/+server.ts"
+	],
+	"/sponsor-us": [
+		"src/routes/sponsor-us/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/sponsors": [
+		"src/routes/sponsors/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/submit-abstract": [
+		"src/routes/submit-abstract/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/submit-tutorial": [
+		"src/routes/submit-tutorial/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/topics": [
+		"src/routes/topics/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/travel-grants": [
+		"src/routes/travel-grants/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/tutorials": [
+		"src/routes/tutorials/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/venue": [
+		"src/routes/venue/+page.ts",
+		"src/routes/+layout.ts"
+	]
+}
