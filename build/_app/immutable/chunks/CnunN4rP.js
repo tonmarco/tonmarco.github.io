@@ -1,1 +1,0 @@
-import{D as e,T as t}from"./BbpNz1p5.js";import"./2TU3FloQ.js";import{t as n}from"./D-3Bzmm_.js";var r=e(`<div class="mx-auto prose max-w-3xl text-center"><p>Information for IC2S2 2027 will be announced here as it becomes available.</p></div>`);function i(e,i){n(e,{variant:`gray`,get title(){return i.title},children:(e,n)=>{t(e,r())},$$slots:{default:!0}})}export{i as t};

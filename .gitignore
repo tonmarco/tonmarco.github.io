@@ -1,0 +1,49 @@
+node_modules
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Large video files
+static/images/*.mov
+static/images/ic2s2_2026_full_NRK.mp4
+static/images/IC2S2_2026_teaser_Nature.mp4
+static/files/ic2s2_2026_word_template.docx
+
+static/files/ic2s2_2026_latex_template.zip
+static/files/ic2s2_2026_latex_template_tutorials.zip
+
+
+# Raw conference data — contains attendee/organizer PII (emails, reg status).
+# Local build-time inputs; the deployed site only needs the generated
+# src/lib/data/full-program/*.{json,ts}. Regenerate via scripts/build_data.py.
+# scripts/input/ holds the raw sends.
+*.xlsx
+scripts/input/
+!scripts/input/
+scripts/input/*
+!scripts/input/IC2S2_2027_program.xlsx
+
+__pycache__/
+
+# Regenerable embedding archives (npy/json across models, ~14MB)
+scripts/outputs/
+scripts/hunt-qr/

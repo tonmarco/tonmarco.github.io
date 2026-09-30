@@ -1,1 +1,0 @@
-import{_t as e}from"../chunks/BbpNz1p5.js";import"../chunks/2TU3FloQ.js";import{t}from"../chunks/CnunN4rP.js";var n=e({load:()=>r}),r=()=>({title:`Keynotes`});function i(e){t(e,{title:`Keynotes`})}export{i as component,n as universal};
